@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AACI,UADM,CACN,EAAE,CAAA;EACE,KAAK,ECDD,OAAgB;CDEvB;;AAHL,AAII,UAJM,CAIN,MAAM,CAAA;ECAN,gBAAgB,EAHR,OAAgB;EAIxB,KAAK,EANC,KAAK;EAOX,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,aAAa,EAAC,GAAG;EACjB,SAAS,EAAE,IAAI;CDJd",
+    "sources": [
+        "homePage.scss",
+        "../variablesSass/variablesSass.scss"
+    ],
+    "names": [],
+    "file": "homePage.css"
+}

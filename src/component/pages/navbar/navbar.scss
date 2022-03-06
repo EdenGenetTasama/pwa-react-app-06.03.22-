@@ -1,0 +1,13 @@
+@import "../variablesSass/variablesSass.scss";
+
+.navbar {
+  background-color: $greenColor;
+  width: 100%;
+  height: 80px;
+  display: flex;
+  justify-content: flex-end;
+  a {
+    color: $Acolor;
+    margin: 20px;
+  }
+}

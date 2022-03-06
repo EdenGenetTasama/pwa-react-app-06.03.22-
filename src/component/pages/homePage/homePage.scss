@@ -1,0 +1,14 @@
+@import "../variablesSass/variablesSass.scss";
+
+.mainTitle{
+    h1{
+        color: $headTitle;
+    }
+    button{
+        @include buttonStyle();
+    }
+}
+
+
+
+    

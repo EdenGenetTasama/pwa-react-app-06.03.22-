@@ -1,0 +1,14 @@
+$greenColor: rgb(147, 173, 147);
+$Acolor : white ; 
+
+$headTitle: rgb(139, 11, 11);
+
+@mixin buttonStyle {
+    background-color: $headTitle;
+    color: $Acolor;
+    border: none;
+    width: 50px;
+    height: 30px;
+    border-radius:25%;
+    font-size: 15px;
+}
