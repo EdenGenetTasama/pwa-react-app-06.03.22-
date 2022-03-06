@@ -26,8 +26,8 @@ function App() {
       <Navbar/>
       <HomePage/>
       <button type='button' >HomepageBUT</button>
-      <Login/>
       <Register/>
+      <Login/>
     </div>
   );
 }
